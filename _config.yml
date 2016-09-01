@@ -1,0 +1,14 @@
+layout_spectrum: 0.8233160562813282
+typography_spectrum: 0.3992854026146233
+color:
+  brandStrength: 0.1860085257794708
+  lightness: 0.773483372060582
+  saturation: 0.9546507217455655
+  rhythmicContrast: 0.29301810543984175
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Wayfinders.Church
